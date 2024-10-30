@@ -23,13 +23,16 @@
     "sort-keys-fix",
     "unicorn",
     "unused-imports",
-    "@typescript-eslint",
+    "@typescript-eslint"
   ],
   "settings": {
     "import/resolver": {
       "node": true,
       "typescript": true
     }
+  },
+  "globals": {
+    "uni": "readonly"
   },
   "rules": {
     // "@typescript-eslint/consistent-type-imports": "error",

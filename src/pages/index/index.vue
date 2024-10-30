@@ -10,7 +10,7 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 
-const title = ref('Hello');
+const title = ref('Hello000111');
 </script>
 
 <style lang="scss">
@@ -41,3 +41,5 @@ const title = ref('Hello');
   }
 }
 </style>
+
+<!-- @uni-platform-loader last-modified-at=1730270595310 -->

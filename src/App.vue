@@ -4,16 +4,14 @@ import { onHide, onLaunch, onShow } from '@dcloudio/uni-app';
 onLaunch(() => {
   // eslint-disable-next-line no-console
   console.log('App Launch');
-  // eslint-disable-next-line no-console, no-undef
-  console.log('Shaw platform DEFAULT');
 });
 onShow(() => {
   // eslint-disable-next-line no-console
-  console.log('App Show');
+  console.log('App Showw');
 });
 onHide(() => {
   // eslint-disable-next-line no-console
-  console.log('App Hidee');
+  console.log('App Hideee');
 });
 </script>
 <style></style>
